@@ -1,4 +1,4 @@
-# Story-Creator
+# Story-Generation-Uisng-Image
 
 ## **README: Story Generating Using Image Using Llava-v1.5-7b and Llama3.10-70b**
 
@@ -44,7 +44,6 @@ GROQ_API_KEY=your_api_key
    ```
 2. **Install Dependencies:**
    ```bash
-   cd Story_Generator
    pip install -r requirements.txt
    ```
 3. **Set API Key:**
